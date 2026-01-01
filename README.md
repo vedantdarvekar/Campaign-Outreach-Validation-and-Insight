@@ -72,4 +72,9 @@ Dashboard link is included in the project documentation. :contentReference[oaici
 (Team project – Excelerate Virtual Internship Program) :contentReference[oaicite:4]{index=4}
 
 ## Future Improvements
-- Predictive modeling for
+- Predictive modeling for call success
+- Agent efficiency scoring
+- A/B testing different call windows
+- Funnel analysis from call → application → conversion
+
+⭐ *If you found this project insightful, feel free to star the repo or connect with me on LinkedIn.*
